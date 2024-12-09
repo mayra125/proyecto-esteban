@@ -1,0 +1,26 @@
+body {
+    font-family: Georgia, serif;
+    margin: 0;
+    background-color: #fcfcfc;
+}
+header {
+    background: #004080;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+article {
+    margin: 20px auto;
+    width: 80%;
+    background: #fff;
+    padding: 15px;
+    border: 1px solid #ddd;
+    box-shadow: 0px 2px 4px rgba(0,0,0,0.1);
+    border-radius: 5px;
+}
+h2 {
+    color: #004080;
+}
+p {
+    margin: 5px 0;
+}

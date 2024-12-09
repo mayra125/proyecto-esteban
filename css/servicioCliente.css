@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+header {
+    background: #002244;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+details {
+    margin: 20px auto;
+    width: 80%;
+    background: #f9f9f9;
+    padding: 10px;
+    border-radius: 5px;
+}
+summary {
+    font-weight: bold;
+    cursor: pointer;
+}

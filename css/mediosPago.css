@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    margin: 0;
+}
+header {
+    background: #003366;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.medios {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+}
+.medios li {
+    margin: 10px;
+    text-align: center;
+}
+.medios img {
+    width: 50px;
+    display: block;
+    margin: 0 auto 5px;
+}

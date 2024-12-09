@@ -1,0 +1,16 @@
+body {
+    font-family: 'Times New Roman', serif;
+    background: #fefefe;
+    margin: 0;
+}
+header {
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+p {
+    margin: 20px;
+    line-height: 1.8;
+    text-align: justify;
+}
